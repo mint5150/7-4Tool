@@ -1,0 +1,14 @@
+・Expected newline between test and consequent of ternary expression
+
+意味：三項演算子の条件部分(?の前)と結果部分(？の後)が改行されていない
+対処方法：該当箇所を改行する
+
+・Expected newline between consequent and alternate of ternary expression
+
+意味：三項演算子の結果部分(:の前)と代替部分(:の後)が改行されていない
+対処方法：該当箇所を改行する
+
+・Unnecessary semicolon
+
+意味：セミコロンが不要
+対処方法：該当箇所のセミコロンを削除する
